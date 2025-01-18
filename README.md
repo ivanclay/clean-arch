@@ -1,4 +1,4 @@
-## Clean Archtecture training
+## Clean Architecture training
 
 ![License Badge](https://img.shields.io/badge/dotnet-8.0.0-blue.svg?style=flat-square&logo=dotnet)
 ![Project Status Badge](https://img.shields.io/badge/status-training-blue.svg?style=flat-square)
