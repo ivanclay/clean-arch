@@ -13,7 +13,8 @@ So have fun. :smile:
 ## list
 
 [S.O.L.I.D](https://github.com/ivanclay/clean-arch/tree/main/Solid)
-  - [SRP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/SRP)
+  - [SRP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/01_SRP)
+  - [OCP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/02_OCP)
 
 ---
 
