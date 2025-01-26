@@ -16,6 +16,7 @@ So have fun. :smile:
   - [SRP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/01_SRP)
   - [OCP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/02_OCP)
   - [LSP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/03_LSP)
+  - [ISP](https://github.com/ivanclay/clean-arch/tree/main/Solid/Solid/04_ISP)
 
 ---
 
